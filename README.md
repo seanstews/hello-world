@@ -1,2 +1,5 @@
 # hello-world
-Obligatory "hello world" repo
+
+Hello!
+
+Live. Laugh. Love.
